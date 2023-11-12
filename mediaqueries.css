@@ -53,7 +53,7 @@
     height: 40vh;
   }
   #profile {
-    height: 55vh;
+    height: 83vh;
     margin-bottom: 0;
   }
   article {
@@ -101,6 +101,6 @@
     text-align: justify;
   }
   .vig-logo{
-        width: 70%;
+        width: 80%;
   }
 }

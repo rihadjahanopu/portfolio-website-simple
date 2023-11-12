@@ -100,4 +100,7 @@
   .text-container {
     text-align: justify;
   }
+  .vig-logo{
+        width: 50%;
+  }
 }

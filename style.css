@@ -459,7 +459,8 @@ ul {
 
 #clock {
     font-family: 'monospace', sans-serif;
-  
+  display: flex;
+        justify-content: center;
     color: #fea551;
     font-size: 56px;
     text-align: center;

@@ -466,5 +466,13 @@ ul {
     padding-top: 40px;
     padding-bottom: 40px;
       font-weight: bolder;
+
+  /* From https://css.glass */
+background: rgba(22, 21, 21, 0.5);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(4.1px);
+-webkit-backdrop-filter: blur(4.1px);
+border: 1px solid rgba(22, 21, 21, 1);
 }
 

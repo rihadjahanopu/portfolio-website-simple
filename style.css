@@ -455,12 +455,15 @@ ul {
 /* Google font */
 /* @import url('https://fonts.googleapis.com/css?family=Orbitron'); */
 
-
+  .finclock {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+      }
 
 #clock {
     font-family: 'monospace', sans-serif;
-  display: flex;
-        justify-content: center;
+
     color: #fea551;
     font-size: 56px;
     text-align: center;
